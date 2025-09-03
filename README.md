@@ -7,7 +7,7 @@
 **이름**|**Yun DongHyeon**
 
 ***
-### [0][기본 능력 시험](https://github.com/Zeep02/NP-2025-Hyeon/tree/Main/0.BaseCodingEx)
+### *0 [기본 능력 시험](https://github.com/Zeep02/NP-2025-Hyeon/tree/Main/0.BaseCodingEx)
 ***
 
 
