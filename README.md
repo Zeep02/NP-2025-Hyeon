@@ -14,5 +14,5 @@
 
 
 <p align="center"><br/><br/><br/>
-![Image](https://github.com/user-attachments/assets/46d5752d-5864-4df9-ac12-1a890a48140d)
+<img src="https://github.com/user-attachments/assets/46d5752d-5864-4df9-ac12-1a890a48140d"  height="300" width="500">
 </p>
