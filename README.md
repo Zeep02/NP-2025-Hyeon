@@ -14,6 +14,5 @@
 
 
 <p align="center"><br/><br/><br/>
-<img src="https://static.wikia.nocookie.net/silly-cat/images/c/c3/Chipi_Chipi_Chapa_Chapa_Cat.png/revision/latest?cb=20231228121420"  height="300" width="500">
-<div class="tenor-gif-embed" data-postid="5276199764143986284" data-share-method="host" data-aspect-ratio="1.15385" data-width="100%"><a href="https://tenor.com/view/dog-crying-meme-doggo-crys-megan-soo-crying-dog-gif-5276199764143986284">Dog Crying Meme Doggo Crys GIF</a>from <a href="https://tenor.com/search/dog+crying+meme-gifs">Dog Crying Meme GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![Image](https://github.com/user-attachments/assets/46d5752d-5864-4df9-ac12-1a890a48140d)
 </p>
