@@ -8,6 +8,9 @@
 
 ***
 ### 0.[기본 능력 시험](https://github.com/Zeep02/NP-2025-Hyeon/tree/Main/0.BaseCodingEx)
+<details>
+<summary>열기</summary>
+
 - [1.py](https://github.com/Zeep02/NP-2025-Hyeon/blob/Main/0.BaseCodingEx/1.py)
 - [2.py](https://github.com/Zeep02/NP-2025-Hyeon/blob/Main/0.BaseCodingEx/2.py)
 - [3.py](https://github.com/Zeep02/NP-2025-Hyeon/blob/Main/0.BaseCodingEx/3.py)
@@ -19,6 +22,8 @@
 - [9.py](https://github.com/Zeep02/NP-2025-Hyeon/blob/Main/0.BaseCodingEx/9.py)
 - [10.py](https://github.com/Zeep02/NP-2025-Hyeon/blob/Main/0.BaseCodingEx/10.py)
 - [11.py](https://github.com/Zeep02/NP-2025-Hyeon/blob/Main/0.BaseCodingEx/11.py)
+
+</details>
 ***
 
 
