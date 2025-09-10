@@ -27,6 +27,21 @@
 
 ***
 
+### 1. [2단원 실습&연습문제](https://github.com/Zeep02/NP-2025-Hyeon/tree/Main/chap02)
+<detail>
+<summary>열기</summary>
+
+- [노트정리](https://github.com/Zeep02/NP-2025-Hyeon/blob/Main/chap02/note02.ipynb)
+- [연습문제1](https://github.com/Zeep02/NP-2025-Hyeon/blob/Main/chap02/chap02-ex01.ipynb)
+- [연습문제2](https://github.com/Zeep02/NP-2025-Hyeon/blob/Main/chap02/chap02-ex02.ipynb)
+- [연산자 연습문제-1](https://github.com/Zeep02/NP-2025-Hyeon/blob/Main/chap02/Operator-ex01.ipynb)
+- [연산자 연습문제-2](https://github.com/Zeep02/NP-2025-Hyeon/blob/Main/chap02/Operator-ex02.ipynb)
+- [연산자 연습문제-3](https://github.com/Zeep02/NP-2025-Hyeon/blob/Main/chap02/Operator-ex03.ipynb)
+
+
+***
+
+
 
 
 
