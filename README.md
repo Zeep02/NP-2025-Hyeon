@@ -38,6 +38,7 @@
 - [연산자 연습문제-2](https://github.com/Zeep02/NP-2025-Hyeon/blob/Main/chap02/Operator-ex02.ipynb)
 - [연산자 연습문제-3](https://github.com/Zeep02/NP-2025-Hyeon/blob/Main/chap02/Operator-ex03.ipynb)
 
+</details>
 
 ***
 
