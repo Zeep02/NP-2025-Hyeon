@@ -40,6 +40,16 @@
 
 </details>
 
+### 2. [4단원 실습&연습문제](https://github.com/Zeep02/NP-2025-Hyeon/tree/Main/chap02)
+<details>
+<summary>열기</summary>
+
+- [노트정리](https://github.com/Zeep02/NP-2025-Hyeon/blob/Main/chap04/note04.ipynb)
+- [연습문제1](https://github.com/Zeep02/NP-2025-Hyeon/blob/Main/chap04/chap04-ex01.ipynb)
+- [연습문제2](https://github.com/Zeep02/NP-2025-Hyeon/blob/Main/chap04/chap04-ex02.ipynb)
+
+</details>
+
 ***
 
 
