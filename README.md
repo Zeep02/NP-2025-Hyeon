@@ -42,13 +42,69 @@
 
 ***
 
-### 2. [4단원 실습&연습문제](https://github.com/Zeep02/NP-2025-Hyeon/tree/Main/chap02)
+### 2. [4단원 실습&연습문제](https://github.com/Zeep02/NP-2025-Hyeon/tree/Main/chap04)
 <details>
 <summary>열기</summary>
 
 - [노트정리](https://github.com/Zeep02/NP-2025-Hyeon/blob/Main/chap04/note04.ipynb)
 - [연습문제1](https://github.com/Zeep02/NP-2025-Hyeon/blob/Main/chap04/chap04-ex01.ipynb)
 - [연습문제2](https://github.com/Zeep02/NP-2025-Hyeon/blob/Main/chap04/chap04-ex02.ipynb)
+
+</details>
+
+***
+
+### 3. [3단원 실습&연습문제](https://github.com/Zeep02/NP-2025-Hyeon/tree/Main/chap03)
+<details>
+<summary>열기</summary>
+
+- [노트정리](https://github.com/Zeep02/NP-2025-Hyeon/blob/Main/chap03/note03.ipynb)
+- [연습문제1](https://github.com/Zeep02/NP-2025-Hyeon/blob/Main/chap03/chap03-ex01.ipynb)
+
+</details>
+
+***
+
+### 4. [5단원 실습&연습문제](https://github.com/Zeep02/NP-2025-Hyeon/tree/Main/chap05)
+<details>
+<summary>열기</summary>
+
+- [노트정리](https://github.com/Zeep02/NP-2025-Hyeon/blob/Main/chap05/note05.ipynb)
+- [연습문제1](https://github.com/Zeep02/NP-2025-Hyeon/blob/Main/chap05/chap05-ex01.ipynb)
+
+</details>
+
+***
+
+### 5. [6단원 실습&연습문제](https://github.com/Zeep02/NP-2025-Hyeon/tree/Main/chap06)
+<details>
+<summary>열기</summary>
+
+- [노트정리](https://github.com/Zeep02/NP-2025-Hyeon/blob/Main/chap06/note06.ipynb)
+- [연습문제1](https://github.com/Zeep02/NP-2025-Hyeon/blob/Main/chap06/chap06-ex01.ipynb)
+- [연습문제2](https://github.com/Zeep02/NP-2025-Hyeon/blob/Main/chap06/chap06-ex02.ipynb)
+
+</details>
+
+***
+
+### 6. [7단원 실습&연습문제](https://github.com/Zeep02/NP-2025-Hyeon/tree/Main/chap07)
+<details>
+<summary>열기</summary>
+
+- [노트정리](https://github.com/Zeep02/NP-2025-Hyeon/blob/Main/chap07/note07.ipynb)
+- [연습문제1](https://github.com/Zeep02/NP-2025-Hyeon/blob/Main/chap07/chap07-ex01.ipynb)
+
+</details>
+
+***
+
+### 7. [8단원 실습&연습문제](https://github.com/Zeep02/NP-2025-Hyeon/tree/Main/chap08)
+<details>
+<summary>열기</summary>
+
+- [노트정리](https://github.com/Zeep02/NP-2025-Hyeon/blob/Main/chap08/note08.ipynb)
+- [연습문제1](https://github.com/Zeep02/NP-2025-Hyeon/blob/Main/chap08/chap08-ex01.ipynb)
 
 </details>
 
